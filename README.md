@@ -11,7 +11,9 @@
 
 ## 翻译须知
 
-本项目基于Git 和 Markdown进行协同翻译，托管于Gitbook网站上
+  本项目基于Git 和 Markdown进行协同翻译，托管于Gitbook网站上。期望同步项目于Github
+  
+  鉴于Gitbook的不懈努力，参加翻译的人员不需要详细了解Git的使用方法，但是期望有志于翻译的同学和前辈能了解一下Git中分支（branch）的概念。
 
 ## 如何参与
 
