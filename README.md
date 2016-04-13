@@ -13,7 +13,14 @@
 
   本项目基于Git 和 Markdown进行协同翻译，托管于Gitbook网站上。期望同步项目于Github
   
-  鉴于Gitbook的不懈努力，参加翻译的人员不需要详细了解Git的使用方法，但是期望有志于翻译的同学至少了解Git中分支（branch）的概念。
+  - 鉴于Gitbook的不懈努力，参加翻译的人员不需要详细了解Git的使用方法，但是期望有志于翻译的同学至少了解Git中分支（branch）的概念。
+  
+  - 项目基于Markdown 进行写作，Markdown 的技能是必须的，好在它并不难:)这里是一份[Markdown 教程 by ruby-china.org](https://ruby-china.org/markdown)
+
+  - 项目的数学公式是Tex 风格的数学公式，Tex的公式语法的掌握是必须的
+
+  - 与翻译项目相关的领域知识，是必须的，包括但不限于数学，机器学习等，不需要完全掌握，但是对自己翻译的部分至少是应当了解的。
+
 
 ## 如何参与
 
