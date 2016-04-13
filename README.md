@@ -45,10 +45,10 @@
 
 ## 贡献人员
 
-待做
 
 | 章节      | 翻译人员          | 校对人员 |
 | ------------- |:-------------:| :-----:|
+|Part I|||
 | [1 Introduction](http://www.deeplearningbook.org/contents/intro.html)     | xxx | xxx |
 | [2 Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html)     | xxx | xxx |
 
