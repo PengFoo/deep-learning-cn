@@ -1,8 +1,1 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-Hintons's Deep Learning book
-
-tttttttt
-
-arraafadg dfa1
+# 《Deep Learning》by Yoshua Bengio简体中文协作翻译说明
