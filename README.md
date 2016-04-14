@@ -64,7 +64,7 @@
 |[12 Applications](http://www.deeplearningbook.org/contents/applications.html)|||
 |[Part III: Deep Learning Research](http://www.deeplearningbook.org/contents/part_research.html)|-----|-----|
 |[13 Linear Factor Models](http://www.deeplearningbook.org/contents/linear_factors.html)|||
-|[14 Autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html)|[@陈昭男]()||
+|[14 Autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html)|[@陈昭男](https://github.com/frankchen0130)||
 |[15 Representation Learning](http://www.deeplearningbook.org/contents/representation.html)|||
 |[16 Structured Probabilistic Models for Deep Learning](http://www.deeplearningbook.org/contents/graphical_models.html)|||
 |[17 Monte Carlo Methods](http://www.deeplearningbook.org/contents/monte_carlo.html)|||
