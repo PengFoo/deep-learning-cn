@@ -49,7 +49,7 @@
 | 章节      | 翻译人员          | 校对人员 |
 | ------------- |:-------------:| :-----:|
 |[1 Introduction](http://www.deeplearningbook.org/contents/intro.html)     | [@pengfoo](http://www.zhazha.me/) |  |
-|[Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)|
+|[Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)|--|--|
 |[2 Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html)     |  |  |
 |[3 Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)|@gjoker||
 |[4 Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html)|@mathshen||
