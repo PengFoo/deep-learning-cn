@@ -48,9 +48,21 @@
 
 | 章节      | 翻译人员          | 校对人员 |
 | ------------- |:-------------:| :-----:|
-|Part I|||
-| [1 Introduction](http://www.deeplearningbook.org/contents/intro.html)     | xxx | xxx |
-| [2 Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html)     | xxx | xxx |
+|[1 Introduction](http://www.deeplearningbook.org/contents/intro.html)     | xxx | xxx |
+|[Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)|--|--|
+|[2 Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html)     | xxx | xxx |
+|[3 Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)|@gjoker||
+|[4 Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html)|||
+|[5 Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html)|||
+|[Part II: Modern Practical Deep Networks](http://www.deeplearningbook.org/contents/part_practical.html)|||
+|[6 Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html)|||
+|[7 Regularization](http://www.deeplearningbook.org/contents/regularization.html)|||
+|[8 Optimization for Training Deep Models](http://www.deeplearningbook.org/contents/optimization.html)|@mathshen||
+|[9 Convolutional Networks](http://www.deeplearningbook.org/contents/convnets.html)| [@Lea](https://github.com/bb2103) ||
+|[10 Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)|@sqxiang||
+|[11 Practical Methodology](http://www.deeplearningbook.org/contents/guidelines.html)|||
+|[12 Applications](http://www.deeplearningbook.org/contents/applications.html)|||
+|[Part III: Deep Learning Research](http://www.deeplearningbook.org/contents/part_research.html)|||
 
 
 ## 鸣谢
