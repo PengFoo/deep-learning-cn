@@ -52,7 +52,7 @@
 |[Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)|--|--|
 |[2 Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html)     |  |  |
 |[3 Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)|@gjoker||
-|[4 Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html)|||
+|[4 Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html)|@mathshen||
 |[5 Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html)|||
 |[Part II: Modern Practical Deep Networks](http://www.deeplearningbook.org/contents/part_practical.html)|||
 |[6 Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html)|@francis7999||
