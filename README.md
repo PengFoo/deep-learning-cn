@@ -63,6 +63,14 @@
 |[11 Practical Methodology](http://www.deeplearningbook.org/contents/guidelines.html)|||
 |[12 Applications](http://www.deeplearningbook.org/contents/applications.html)|||
 |[Part III: Deep Learning Research](http://www.deeplearningbook.org/contents/part_research.html)|||
+|[13 Linear Factor Models](http://www.deeplearningbook.org/contents/linear_factors.html)|||
+|[14 Autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html)|||
+|[15 Representation Learning](http://www.deeplearningbook.org/contents/representation.html)|||
+|[16 Structured Probabilistic Models for Deep Learning](http://www.deeplearningbook.org/contents/graphical_models.html)|||
+|[17 Monte Carlo Methods](http://www.deeplearningbook.org/contents/monte_carlo.html)|||
+|[18 Confronting the Partition Function](http://www.deeplearningbook.org/contents/partition.html)|||
+|[19 Approximate Inference](http://www.deeplearningbook.org/contents/inference.html)|||
+|[20 Deep Generative Models](http://www.deeplearningbook.org/contents/generative_models.html)|||
 
 
 ## 鸣谢
