@@ -48,14 +48,14 @@
 
 | 章节      | 翻译人员          | 校对人员 |
 | ------------- |:-------------:| :-----:|
-|[1 Introduction](http://www.deeplearningbook.org/contents/intro.html)     | xxx | xxx |
+|[1 Introduction](http://www.deeplearningbook.org/contents/intro.html)     | @pengfoo |  |
 |[Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)|--|--|
-|[2 Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html)     | xxx | xxx |
+|[2 Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html)     |  |  |
 |[3 Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)|@gjoker||
 |[4 Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html)|||
 |[5 Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html)|||
 |[Part II: Modern Practical Deep Networks](http://www.deeplearningbook.org/contents/part_practical.html)|||
-|[6 Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html)|||
+|[6 Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html)|@francis7999||
 |[7 Regularization](http://www.deeplearningbook.org/contents/regularization.html)|||
 |[8 Optimization for Training Deep Models](http://www.deeplearningbook.org/contents/optimization.html)|@mathshen||
 |[9 Convolutional Networks](http://www.deeplearningbook.org/contents/convnets.html)| [@Lea](https://github.com/bb2103) ||
