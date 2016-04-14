@@ -75,7 +75,9 @@
 
 ## 鸣谢
 
-待做
+- 感谢Yoshua Bengio老师提供的经典教材
+- 感谢Gitbook.com提供了非常便利的在线协作写作平台
+- 感谢@francis7999 同学在项目开始之前帮助测试和试验Gitbook.com的功能
 
 ## FAQ
 
