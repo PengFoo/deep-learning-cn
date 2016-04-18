@@ -61,7 +61,7 @@
 |[9 Convolutional Networks](http://www.deeplearningbook.org/contents/convnets.html)| [@Lea](https://github.com/bb2103) [@pengfoo](http://www.zhazha.me/)||
 |[10 Sequence Modeling: Recurrent and Recursive Nets](http://www.deeplearningbook.org/contents/rnn.html)|@sqxiang||
 |[11 Practical Methodology](http://www.deeplearningbook.org/contents/guidelines.html)|||
-|[12 Applications](http://www.deeplearningbook.org/contents/applications.html)|||
+|[12 Applications](http://www.deeplearningbook.org/contents/applications.html)|[@integ](https://github.com/integ)||
 |[Part III: Deep Learning Research](http://www.deeplearningbook.org/contents/part_research.html)|-----|-----|
 |[13 Linear Factor Models](http://www.deeplearningbook.org/contents/linear_factors.html)|||
 |[14 Autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html)|[@陈昭男](https://github.com/frankchen0130)||
